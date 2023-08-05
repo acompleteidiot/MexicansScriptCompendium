@@ -1,0 +1,4 @@
+GU1leGljYW4ncyBNYXN0ZXIgVUk6dWkgb24BAAAABWtleS5vAAAAAAIAAAANd2luZG93LmNyZWF0ZQhjb25zdGFudAQQbWV4aWNhbm1hc3Rlcndpbghjb25zdGFudAQPbWV4aWNhbm1hc3RlcnVpE3dpbmRvdy5wb3NpdGlvbi5zZXQIY29uc3RhbnQEEG1leGljYW5tYXN0ZXJ3aW4IY29uc3RhbnQFAAD6wwAAgsM=;Gk1leGljYW4ncyBNYXN0ZXIgVUk6dWkgb2ZmAQAAAAVrZXkubQAAAAABAAAADndpbmRvdy5kZXN0cm95CGNvbnN0YW50BBBtZXhpY2FubWFzdGVyd2lu
+window: <h content-size-fitter="true" background-color="#FFFFFF00" spacing="5"><v content-size-fitter="true" background-color="#FFFFFF00" spacing="10"><button sprite="laboratory.shovel" size="20 20" script="Mexican's Mining Scripts:ui on" /><button sprite="workersBoost" size="20 20" script="Mexican's Worker Scripts:ui on" /></v><v background-color="#FFFFFF00" content-size-fitter="true"><text text-alignment="left">Miner</text><text text-alignment="left">Worker</text></v></h>
+window name is EXACTLY "mexicanmasterui"
+do not change it
