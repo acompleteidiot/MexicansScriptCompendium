@@ -9,3 +9,4 @@ The arrows on the UI are buttons! Click any color to change the task of that gro
 F turns off the UI.
 R changes the UI after changing the edit me script.
 Nothing really happens if you remove the keybinds.
+There are 9 total scripts in the pack.
