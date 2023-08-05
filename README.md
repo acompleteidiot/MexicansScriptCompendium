@@ -12,3 +12,6 @@ Nothing really happens if you remove the keybinds.
 There are 9 total scripts in the pack.
 Worker tasks: https://www.perfecttower2.com/wiki/Workers#Worker_Taskid.27s
 also contains alot of global variables sorry
+# Master UI
+This is what the rest of my scripts' UIs will be based on!
+I won't make a Master UI-less version of each of them. Just add an impulse yourself.
