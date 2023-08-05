@@ -16,3 +16,6 @@ also contains alot of global variables sorry
 This is what the rest of my scripts' UIs will be based on!
 I won't make a Master UI-less version of each of them. Just add an impulse yourself.
 2 scripts
+# Auto-Mine
+Click the button and it will mine every single layer in your mine tab!
+Remember to generate the first layer of the tab, or you have to mine one yourself.
