@@ -11,3 +11,4 @@ R changes the UI after changing the edit me script.
 Nothing really happens if you remove the keybinds.
 There are 9 total scripts in the pack.
 Worker tasks: https://www.perfecttower2.com/wiki/Workers#Worker_Taskid.27s
+also contains alot of global variables sorry
