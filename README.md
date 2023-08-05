@@ -15,3 +15,4 @@ also contains alot of global variables sorry
 # Master UI
 This is what the rest of my scripts' UIs will be based on!
 I won't make a Master UI-less version of each of them. Just add an impulse yourself.
+2 scripts
