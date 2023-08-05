@@ -1,6 +1,6 @@
-# Mexican's Worker Script
+# Worker Script
 this is my brand new TPT2 AI script for workers!
-It's pretty simple to use.
+It's pretty simple to use, and basically fully customizable!
 REQUIRES 11 ACTIONS MINIMUM!!!!
 Edit the script called edit me!
 Use keys R, B, G, Y, and P to change the task of the red, blue, green, yellow and pink groups respectively.
